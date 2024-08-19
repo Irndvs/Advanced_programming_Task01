@@ -1,0 +1,10 @@
+You have multiple CSV files, each representing a week's sales data for a different store. These files contain information about products sold, including date, category, quantity, price, and discount.
+
+Your goal is to write a Python program that:
+
+Imports all sales data into a usable format.
+Cleans the data by removing errors and filling in missing values.
+Calculates additional information like net price (Net_Price = Price × (1 - Discount)) and total revenue (Total_Revenue = Quantity × Net_Price) for each sale.
+Combines data from all stores into a single overview.
+Summarizes the combined data by calculating total quantity sold and total revenue for each product.
+Saves the summary results to a new CSV file.

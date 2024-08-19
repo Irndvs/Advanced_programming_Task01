@@ -1,0 +1,14 @@
+Date,Product,Category,Quantity,Price,Discount
+2024-08-01,ProductA,Electronics,3,200.0,0.0
+2024-08-01,ProductE,Books,7,50.0,0.10
+2024-08-02,ProductD,Furniture,5,300.0,0.15
+2024-08-02,ProductC,Home,8,100.0,0.05
+2024-08-03,ProductF,Toys,10,25.0,0.0
+2024-08-03,ProductB,Home,9,150.0,0.20
+2024-08-04,ProductA,Electronics,4,200.0,0.0
+2024-08-04,ProductG,Home,6,80.0,0.0
+2024-08-05,ProductC,Home,11,100.0,0.10
+2024-08-05,ProductH,Electronics,5,400.0,0.05
+2024-08-06,ProductE,Books,3,50.0,0.0
+2024-08-06,Product
+
